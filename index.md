@@ -3,7 +3,7 @@ Daniel Novichkov
 
 ----
 
->  Specialties: Project / Product Manager / Analyst| **Blockchain / Fintech / IT
+>  Specialties: Project / Product Manager / Analyst| Blockchain / Fintech / IT
 
 ----
 
@@ -14,9 +14,9 @@ Since 2017
 :   *Project Manager for [Waves Platform](https://www.wavesplatform.com/)*
     (Moscow, Russia).
 
-    Managing development of social platform for dApps developers. Market research, service concept and prototyping, user's life cycle and user stories; hypothesis test and A/B testing;
-
-·      Developed user documentation.
+    Managing development of social platform for dApps developers. 
+    Market research, service concept and prototyping, user's life cycle and
+    user stories; hypothesis test and A/B testing; user documentation.
 
 2009-2012
 :   *PhD in Operations Research with
