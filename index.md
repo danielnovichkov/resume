@@ -6,127 +6,107 @@ Daniel Novichkov
 >  Specialties: Project / Product Manager / Analyst| Blockchain / Fintech / IT
 
 ----
+Skills
+------
+- Agile Project Management
+- Content creation. Copywriting. Journalism 
+- UX design. Usability testing. Accessibility 
+- Translating Russian-English-French
+- CRM. Support. Knowledge base
+- Event management
+- Plans. Budgets. Accounting
+- Documentation. Requirements. Specs
 
 Corporate Experience
 --------------------
 
-Since 2017
+2019
 :   *Project Manager for [Waves Platform](https://www.wavesplatform.com/)*
     (Moscow, Russia).
 
-    Managing development of social platform for dApps developers. 
-    Market research, service concept and prototyping, user's life cycle and
-    user stories; hypothesis test and A/B testing; user documentation.
+    Social platform for dApps developers project. Market research, service concept and UX prototyping, user's life cycle and user stories; hypothesis test and A/B testing; user documentation and support.
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+2017-2018
+:   *Project Manager for [Waves Platform](https://www.wavesplatform.com/)*
+    (Moscow, Russia).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    Waves Gateways' project. Conception and launching the project; negotiation and integration of the KYC&AML remote verification; User, legal and project docimentaion; Task management, support, knowledge base, and CRM integration; Integration of an automated system for monitoring and reporting; Collecting requirements, prototyping, UX, usability testing of the Waves client, DEX-decentralized exchange.
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2015-2017
+:   *Project manager for 
+    [Infoculture](http://www.infoculture.ru)* (Moscow, Russia).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    Responsible for development and support of the state procurement portal “Goszatraty (Public Spending)” www.clearspending.ru.
+    - Implemented a new concept for website promotion (traffic increased one and a half times);
+    - Developed a new format for public and donors reporting what optimized time and efforts for reports delivery;
+    - Managed joint projects with the Ministry of Finance of the Russian Federation. Held a series of conferences, meetings, hackathons, Budgetapps 2017 competition (prize of 0.5 mln roubles);
+    - Launched an open data monetisation project. Managed three pilot projects on state procurement analysis (0.5 roubles in total);
+    - Edited and submitted several grant proposals for 1 million roubles in total;
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+2013-2015
+:   *Project manager [Expert Council for the Government of the Russian Federation](www.open.gov.ru)*
+    (Moscow, Russia).
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+    Expert Council is an advisory body for the examination of economic and socially significant decisions of the Government of the Russian Federation, executive authorities and government commissions. 70+ employees.
+    - Launched Expert Council’s web-platform, a closed social network for reviewing and discussing public documents. Prototyping, specification writing hiring and managing a remote development team.
+    - Integrated internal CRM system. Run a tender for development and integration (Terrasoft CRM/BPM). Developed a concept, negotiated the contract and project plan. Managed the whole project implementation, testing and training of employees.
 
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+2007-2013
+:   *Project manager and translator of WCAG 2.0 W3C Guidelines at [UN Information Center in Moscow](www.unic.ru);*
+:   *Project manager at Creara-media. Advertising platform for applications on VK. Former contractor;*
+:   *Project manager [ImproveMedia](www.inmyroom.ru);*,
+:   *Project manager Unimobi]mobile application development;*,
+:   *UX/Usability testing specialist at [Usabilitylab](www.usabilitylab.ru);*
+:   *Project manager [Bugun advertizing platform](www.begun.ru)*.
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+- Software Product Management (Alberta University (Coursera Specialisation));
+- Computer Science 50's (Harvard University. On-line);
+- Design of user interfaces (Russsian School of Design. Moscow. Russia);
+- Certified Agile Professional. Implementing agile software development methodologies (ScrumTrek. Moscow. Russia);
+- Education of business leaders (United Nations Conference on Trade and Development Empretec. Moscow. Russia);
+- Variability in project management ( School of System Analysis. Online);
+- Institutionalisation of Usability (Human Factors International. Moscow. Russia);
+- User centered design. Usability testing (UsabilityLab.ru. Moscow. Russia);
+- Fundraising, grant writing (TIDES foundation. San-Francisco. USA).
+- Human rights advocacy (Act-Up. Paris. France)
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+##Conferences and presentations##
+- 5 presentations  at  Russian Internet Conference, Conference of Internet and Business, Russian Internet Week, Runet Prize, the Federation Council, RIA News;
+- Organization of hackathons and meetups for developing applications on open government data https://habr.com/en/users/danielnovichkov/posts/;
+- Organization of the annual contest of the Ministry of Finance of the Russian Federation “Open State Financial Data” (160 participants) http://budgetapps.ru/contest#winners;
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+##Publications##
+- W3C Russian translation of Web content  accessibility guidelines in Russian http://www.w3.org/Translations/WCAG20-ru/;
+- GOST R 52872-2012. Internet resources. Accessibility requirements for visually impaired people http://docs.cntd.ru/document/1200103663;
+- E-government and accessibility. Draft standards for the development of pubic websites. http://www.infeconomy.ru/government-.html;
+- Study of accessibility of Russian public web-sites for people with disabilities https://www.asi.org.ru/event/accessibilty_research/.
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+##Technology and software##
+- PM tools: Jira Atlassian, Youtrack, Trello, Zendesk, SurveyMonkey, MailChimp, Axure RP, Microsoft Office, Open Refine, BPM Terrasoft, Bitrix24, CMS, GitHub;
+- Systems: Mac OS X, Apple iOS, Android, Blackberry OS, Windows, Linux;
+- Programming skills: HTML, CSS, JavaScript;
+- UX skills: UX research, Personas, Paper prototyping, Axure RP, Usability testing.
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+1993-1998
+:   *Linguistics. French and English philology. Karelian State Pedagogical University*
+    (Petrozavodsk, Russia).
 
 Activities and interests
 ------------------------
 
 Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+:   Learning new skills. 
 
 Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+:   Swimming, nordic walking, yoga.
 
 Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+:   I once made presentation on web-accessibility in Federation Council (Russia)
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> <daniel.novichkov@gmail.com > • +7 916 028 59 59 • 44 years old\
+>  5, Kuskovskaya street - Moscow, RUSSIA
