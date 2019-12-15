@@ -8,9 +8,8 @@ Daniel Novichkov
 ----
 Skills
 ------
-- Agile Project Management
-- Content creation. Copywriting. Journalism 
-- UX design. Usability testing. Accessibility 
+| Agile Project Management|| Content creation ||Copywriting || 
+| Journalism || UX design || Usability testing || Accessibility || 
 - Translating Russian-English-French
 - CRM. Support. Knowledge base
 - Event management
@@ -73,18 +72,21 @@ Education
 - Fundraising, grant writing (TIDES foundation. San-Francisco. USA).
 - Human rights advocacy (Act-Up. Paris. France)
 
-##Conferences and presentations##
+Conferences and presentations
+-----------------------------
 - 5 presentations  at  Russian Internet Conference, Conference of Internet and Business, Russian Internet Week, Runet Prize, the Federation Council, RIA News;
 - Organization of hackathons and meetups for developing applications on open government data https://habr.com/en/users/danielnovichkov/posts/;
 - Organization of the annual contest of the Ministry of Finance of the Russian Federation “Open State Financial Data” (160 participants) http://budgetapps.ru/contest#winners;
 
-##Publications##
+Publications
+------------
 - W3C Russian translation of Web content  accessibility guidelines in Russian http://www.w3.org/Translations/WCAG20-ru/;
 - GOST R 52872-2012. Internet resources. Accessibility requirements for visually impaired people http://docs.cntd.ru/document/1200103663;
 - E-government and accessibility. Draft standards for the development of pubic websites. http://www.infeconomy.ru/government-.html;
 - Study of accessibility of Russian public web-sites for people with disabilities https://www.asi.org.ru/event/accessibilty_research/.
 
-##Technology and software##
+Technology and software
+-----------------------
 - PM tools: Jira Atlassian, Youtrack, Trello, Zendesk, SurveyMonkey, MailChimp, Axure RP, Microsoft Office, Open Refine, BPM Terrasoft, Bitrix24, CMS, GitHub;
 - Systems: Mac OS X, Apple iOS, Android, Blackberry OS, Windows, Linux;
 - Programming skills: HTML, CSS, JavaScript;
@@ -108,5 +110,5 @@ Activities
 
 ----
 
-> <daniel.novichkov@gmail.com > • +7 916 028 59 59 • 44 years old\
+> daniel.novichkov@gmail.com • +7 916 028 59 59 • 44 years old\
 >  5, Kuskovskaya street - Moscow, RUSSIA
